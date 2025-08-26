@@ -1,7 +1,7 @@
 import VoteComparison from "./components/vote-comparison";
 import VoteCounter from "./components/vote-counter";
 
-const groupA_ids = [206304, 206298, 206307, 206393, 206431, 206571];
+const groupA_ids = [206304, 206298, 206307, 206393, 206431];
 const groupB_ids = [206299, 206309, 206433, 206302, 206330, 206413];
 
 const GROUP_A_NAME = "Informática A";
